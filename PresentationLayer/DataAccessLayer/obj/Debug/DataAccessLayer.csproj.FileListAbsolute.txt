@@ -1,0 +1,6 @@
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\praksa\EvidencijaMalina\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

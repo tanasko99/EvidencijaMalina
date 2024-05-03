@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Transakcije] (
+    [ID]                INT             NOT NULL,
+    [Vrsta_robe]        NVARCHAR (20)   NOT NULL,
+    [Kolicina]          DECIMAL (18, 2) NOT NULL,
+    [Ovlasceno_lice ]   NVARCHAR (50)   NOT NULL,
+    [Kupac_Proizvodjac] NVARCHAR (50)   NOT NULL,
+    [Datum]             DATE            NOT NULL,
+    [Vrsta]             NVARCHAR (20)   NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

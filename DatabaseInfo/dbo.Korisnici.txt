@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Korisnici] (
+    [JMBG]    DECIMAL (18)  NOT NULL,
+    [Ime]     NVARCHAR (60) NOT NULL,
+    [Prezime] NVARCHAR (60) NOT NULL,
+    [Adresa]  NVARCHAR (50) NULL,
+    [Uloga]   NVARCHAR (40) NOT NULL,
+    [Telefon] NVARCHAR (15) NULL,
+    PRIMARY KEY CLUSTERED ([JMBG] ASC)
+);
+

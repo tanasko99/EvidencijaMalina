@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Komora] (
+    [ID]            INT              NOT NULL,
+    [Vrsta_robe]    NVARCHAR (20)   NOT NULL,
+    [Jedinica_mere] NVARCHAR (10)   NOT NULL,
+    [Kolicina]      DECIMAL (18, 2) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

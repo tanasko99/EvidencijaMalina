@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DatabaseInfo",
+    "\\PresentationLayer",
+    "\\PresentationLayer\\BusinessLayer",
+    "\\PresentationLayer\\DataAccessLayer"
+  ],
+  "SelectedNode": "\\PresentationLayer\\PresentationLayer.sln",
+  "PreviewInSolutionExplorer": false
+}
